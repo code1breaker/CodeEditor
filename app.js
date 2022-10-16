@@ -29,6 +29,7 @@ let html_code = `<html>
 <h1>Welcome To Code Editor</h1>
 <p>Here you can write and excute  your html, css & js code </p>
 <p>Press "Ctrl + ." to toggle code editor</p>
+<p>Click run button to execute JS</p>
 </body>
 </html>`
 
